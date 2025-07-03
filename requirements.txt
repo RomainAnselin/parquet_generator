@@ -1,0 +1,3 @@
+pandas>=2.0.0
+pyarrow>=14.0.1  # Required for Parquet support
+cassandra-driver>=3.28.0  # Required for Cassandra connectivity 
